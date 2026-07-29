@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keshav Jha</h1>
-<h3 align="center">Software Engineer | Oracle Intern | M.Tech AI & Data Science, NIT Durgapur</h3>
+<h3 align="center">Software Engineer | M.Tech AI & Data Science, NIT Durgapur</h3>
 
 <p align="center">
   <a href="mailto:keshavkjha1999@gmail.com">Email</a> |
