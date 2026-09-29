@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Keshav Jha</h1>
-<h3 align="center">Software Engineer | M.Tech AI & Data Science, NIT Durgapur</h3>
+<h3 align="center">Senior Backend Engineer @ MishiPay · Builder who likes to explore</h3>
 
 <p align="center">
-  <a href="mailto:keshavkjha1999@gmail.com">Email</a> |
-  <a href="https://linkedin.com/in/ks48">LinkedIn</a> |
-  <a href="https://github.com/keshav-019">GitHub</a> |
+  <a href="mailto:keshavkjha1999@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/ks48">LinkedIn</a> ·
+  <a href="https://keshav.projectyourown.com/">Website</a> ·
   <a href="https://www.leetcode.com/survivor_48">LeetCode</a>
 </p>
 
@@ -14,48 +14,47 @@
 
 ### About me
 
-- Software engineer with 3+ years of backend engineering experience and recent Oracle internship experience.
-- Currently working across Oracle Cloud Infrastructure and Oracle Aconex.
-- Experienced in building product features and fixing issues across Angular frontends, Spring Boot services, Node.js APIs, and Linux/Docker-based systems.
-- Completed M.Tech in Artificial Intelligence and Data Science from NIT Durgapur in May 2026.
-- Looking for full-time Software Engineer / Backend Engineer / Full Stack Engineer roles starting July 2026.
+- **Senior Backend Engineer at [MishiPay](https://mishipay.com)** (since Sep 2026), working in Python/Django on retail checkout and payments systems.
+- Previously a **Software Engineering Intern at Oracle** (until Jul 2026) on Oracle Cloud Infrastructure and Oracle Aconex. I worked across Angular, Spring Boot, Node.js and Linux/Docker-based services.
+- **M.Tech in AI & Data Science**, NIT Durgapur (2026).
+- I've built production full-stack software at work. Outside work I follow whatever looks interesting: AI engineering, game development, IoT/embedded, DevOps and developer tools.
+- I want to make real contributions to open-source projects. If you maintain something interesting, I'd love to help.
 
 ### What I work with
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Java, JavaScript, TypeScript, Python, C++, SQL |
-| Frontend | Angular, HTML, CSS |
-| Backend | Spring Boot, Node.js, REST APIs, Microservices |
-| Cloud and Tools | Oracle Cloud Infrastructure, Docker, Git, Linux, CI/CD |
-| AI/ML | PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas |
+| Backend | Python, Django, Django REST Framework, Spring Boot, Node.js, REST, gRPC, Microservices |
+| Frontend | TypeScript, React, Next.js, Angular, TanStack |
+| Systems | C++, C, Drogon, ONNX Runtime, OpenCV |
+| AI / ML | PyTorch, TensorFlow, Scikit-learn, NLP, Computer Vision, Edge ML |
+| IoT / Embedded | ESP32, ESP-IDF, Raspberry Pi |
+| DevOps & Cloud | Docker, Linux, CI/CD, Git, Oracle Cloud Infrastructure, Firebase |
+| Data | PostgreSQL, MySQL, SQL |
 
-### Current focus
+### Things I'm building
 
-- Enterprise software engineering across Oracle Aconex and Oracle Cloud Infrastructure.
-- Document workflow behavior in large-scale collaboration software.
-- Backend systems, API design, developer tools, and reliable product workflows.
-- Practical AI/ML systems, edge ML, and software that connects real-world devices with backend platforms.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**VisionServe**](https://github.com/keshav-019/visionserve) | Production-oriented computer vision inference platform with REST + gRPC APIs and an operator dashboard | C++ · Drogon · ONNX Runtime · OpenCV · TanStack Start |
+| [**StackCendra**](https://github.com/keshav-019/stackcendra) | AI-native engineering workspace that understands code, config, infrastructure and production telemetry | TypeScript · AI |
+| [**Breachsphire**](https://github.com/keshav-019/breachsphire) | Story-driven cybersecurity learning game: 20 worlds of missions, from fundamentals to AI security | TypeScript · Game Dev |
+| [**CareerOS**](https://github.com/keshav-019/career-os) | A day-to-day career driver, built as a monorepo of apps and shared packages | TypeScript · Firebase |
+| [**EchoMind**](https://github.com/keshav-019/echomind) | Personal voice assistant combining NLP, deep learning and a web interface | Python · Deep Learning |
+| [**ESP32 Sound Classification**](https://github.com/keshav-019/sound-classification-using-esp32) | Real-time on-device audio classification (e.g. baby-cry detection) using MFCC + CNN | C++ · ESP32 · Edge ML |
 
-### Featured work
+### Earlier experiments
 
-- **Unified Developer Tools Platform**: Building a unified client for REST, WebSockets, SSH, camera feeds, local terminal sessions, Docker actions, logs, and monitoring.
-- **Sound Classification on ESP32**: Built a real-time sound classification system using CNNs, MFCC features, and memory-optimized inference for edge devices.
-- **IoT Boom Barrier Automation**: Designed backend and embedded workflows for ESP32-based automation with real-time monitoring and control.
+[Handwritten Devanagari word recognition](https://github.com/keshav-019/handwritten-word-recognition) (CRNN + CTC) ·
+[Spiking neural networks for image classification](https://github.com/keshav-019/image-classification-using-spiking-neural-networks) ·
+[Story / next-word generator from scratch](https://github.com/keshav-019/next-word-generation)
 
-### Connect with me
+### Currently exploring
 
-<p align="left">
-  <a href="mailto:keshavkjha1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keshavkjha1999%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ks48">
-    <img src="https://img.shields.io/badge/LinkedIn-ks48-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/survivor_48">
-    <img src="https://img.shields.io/badge/LeetCode-survivor__48-orange?style=flat&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+- Open-source contributions in observability and developer tooling (OpenTelemetry, Vite)
+- LLM-powered backends and agentic developer tools
+- Game development and interactive learning
+- Edge AI on microcontrollers and single-board computers
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keshav-019&show_icons=true&locale=en&layout=compact" alt="Top languages" />
