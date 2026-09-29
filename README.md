@@ -56,6 +56,3 @@
 - Game development and interactive learning
 - Edge AI on microcontrollers and single-board computers
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keshav-019&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
