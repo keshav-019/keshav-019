@@ -38,11 +38,17 @@
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
 | [**VisionServe**](https://github.com/keshav-019/visionserve) | Production-oriented computer vision inference platform with REST + gRPC APIs and an operator dashboard | C++ · Drogon · ONNX Runtime · OpenCV · TanStack Start | [demo](https://visionserve.vercel.app) |
-| [**StackCendra**](https://github.com/keshav-019/stackcendra) | AI-native engineering workspace for detecting, reproducing and fixing environment failures, from local dev to production (early stage) | Next.js · TypeScript | [demo](https://stackcendra.vercel.app) |
-| [**Breachsphire**](https://github.com/keshav-019/breachsphire) | Story-driven cybersecurity learning game: 20 worlds of missions, from fundamentals to AI security | React · NestJS · Supabase · Electron | [play](https://breachsphire.vercel.app) |
-| [**CareerOS**](https://github.com/keshav-019/career-os) | Job-search workspace: application tracking, browser job capture, resume builder, interview prep and a local multi-language coding judge (web, desktop, extension, Android) | Next.js · Electron · React Native · Firebase | [app](https://keshav-019-career-os.vercel.app) · [release](https://github.com/keshav-019/career-os/releases) |
+| [**StackCendra**](https://github.com/keshav-019/stackcendra) | AI-native engineering workspace for detecting, reproducing and fixing environment failures, from local dev to production (early stage) | Next.js · TypeScript | [stackcendra.com](https://stackcendra.com) |
+| [**Breachsphire**](https://github.com/keshav-019/breachsphire) | Story-driven cybersecurity learning game: 20 worlds of missions, from fundamentals to AI security | React · NestJS · Supabase · Electron | [play](https://breachsphire.yourwaytolearn.com) |
+| [**CareerOS**](https://github.com/keshav-019/career-os) | Job-search workspace: application tracking, browser job capture, resume builder, interview prep and a local multi-language coding judge (web, desktop, extension, Android) | Next.js · Electron · React Native · Firebase | [web](https://www.projectyourown.com) · [Chrome ext](https://chromewebstore.google.com/detail/careeros-capture/llendblljmalpjakenfmllaajhblkcim) · [desktop](https://github.com/keshav-019/career-os/releases) |
 | [**EchoMind**](https://github.com/keshav-019/echomind) | Desktop AI agent with voice, typed tools, a permission/approval engine and audit log (Git, Docker, OS and smart-home control) | Python · FastAPI · LangGraph · Electron | desktop app |
 | [**ESP32 Sound Classification**](https://github.com/keshav-019/sound-classification-using-esp32) | Real-time on-device audio classification (e.g. baby-cry detection) using MFCC + CNN | C++ · ESP32 · Edge ML | on-device |
+
+### Problem solving
+
+<a href="https://leetcode.com/u/survivor_48/"><img src="assets/leetcode-solved.png" alt="LeetCode: 279 problems solved (169 easy, 92 medium, 18 hard)" width="420" /></a>
+
+279 problems solved on [LeetCode](https://leetcode.com/u/survivor_48/), mostly in C++ (199), plus MySQL (54) and JavaScript (24). Strongest areas: dynamic programming, math and databases.
 
 ### Earlier experiments
 
