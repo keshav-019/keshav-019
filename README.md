@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keshav Jha</h1>
-<h3 align="center">Senior Backend Engineer @ MishiPay · Builder who likes to explore</h3>
+<h3 align="center">Backend Developer @ MishiPay · Open-source contributor · Builder who likes to explore</h3>
 
 <p align="center">
   <a href="mailto:keshavkjha1999@gmail.com">Email</a> ·
@@ -14,9 +14,9 @@
 
 ### About me
 
-- **Senior Backend Engineer at [MishiPay](https://mishipay.com)** (since Sep 2026), working in Python/Django on retail checkout and payments systems.
+- **Backend Developer at [MishiPay](https://mishipay.com)** (since Sep 2026), working in Python/Django on retail checkout and payments systems.
 - Previously a **Project Intern at Oracle Financial Services Software** (Jan – Jul 2026) on Oracle Aconex document-management workflows (Angular, Spring Boot, Oracle SQL, OCI).
-- Before that, **Backend Developer & DevOps Engineer at Distronix** (Aug 2022 – Oct 2025): Node.js/Express APIs, Docker, Linux deployments, PostgreSQL/MySQL/MongoDB.
+- Before that, **Software Engineer at Distronix** (Apr 2022 – May 2025, starting as an intern and embedded developer): Node.js/Express APIs, Docker, Linux deployments, PostgreSQL/MySQL/MongoDB, ESP32/Raspberry Pi firmware.
 - **M.Tech in AI & Data Science**, NIT Durgapur (2026).
 - I've built production full-stack software at work. Outside work I follow whatever looks interesting: AI engineering, game development, IoT/embedded, DevOps and developer tools.
 - I want to make real contributions to open-source projects. If you maintain something interesting, I'd love to help.
@@ -32,6 +32,12 @@
 | IoT / Embedded | ESP32, ESP-IDF, Raspberry Pi |
 | DevOps & Cloud | Docker, Linux, CI/CD, Git, Oracle Cloud Infrastructure, Firebase |
 | Data | PostgreSQL, MySQL, SQL |
+
+### Open source
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [**Vite**](https://github.com/vitejs/vite) | fix(build): preload CSS correctly when `renderBuiltUrl` returns URLs with queries ([#23611](https://github.com/vitejs/vite/pull/23611)) | ✅ Merged, Sep 2026 |
 
 ### Things I'm building
 
